@@ -1,0 +1,18 @@
+{
+  "name": "Raghav Mahajan",
+  "phones": "800-123-4567",
+  "email": "raghav.mahajan000@gmail.com",
+  "professionalSummary": "8+ years of experience building, integrating, testing and supporting Android applications for mobile, tablet and wearable devices on the Android platform. Expertise in SDLC and end-to-end development of software products from Requirements Analysis to System Study, Documentation and Testing. Solid understanding of full mobile and software development life cycles, UI, web analytics, and agile methodologies. Experience of developing Android applications using Java and Kotlin. Demonstrated abilities in analyzing information system needs, evaluating end user requirement, custom designing solutions, troubleshooting for complex information system management. Experience of developing applications using Multithreading and Concurrency. Strong problem solving and technical Skills coupled with confident decision making to enable effective solution.",
+  "pastExperience": [
+    {
+      "name": "Samsung Electronics",
+      "role": "Lead Engineer",
+      "skills": "Android, Kotlin, Java, GIT, SVN, Perforce, JIRA, Kanban board, Design patterns, Firebase, Junit, mockito, Espresso, Gradle, Profiler, Multithreading, Collections"
+    },
+    {
+      "name": "Justin Doe",
+      "role": "Systems Analyst",
+      "skills": "Android, Java, Google Cloud Messaging (GCM), SVN, Jenkins, ANT, Google Analytics, Robotium, Agile, J2EE."
+    }
+  ]
+}
