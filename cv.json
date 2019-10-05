@@ -7,13 +7,13 @@
     {
       "name": "Samsung Electronics",
       "role": "Lead Engineer",
-	  "url":"https://raghav09121987.github.io/samsung.png"
+	  "url":"https://raghav09121987.github.io/samsung.png",
       "skills": "Android, Kotlin, Java, GIT, SVN, Perforce, JIRA, Kanban board, Design patterns, Firebase, Junit, mockito, Espresso, Gradle, Profiler, Multithreading, Collections"
     },
     {
       "name": "TATA Consultancy Services",
       "role": "Systems Analyst",
-	  "url":"https://raghav09121987.github.io/samsung.png"
+	  "url":"https://raghav09121987.github.io/samsung.png",
       "skills": "Android, Java, Google Cloud Messaging (GCM), SVN, Jenkins, ANT, Google Analytics, Robotium, Agile, J2EE."
     }
   ]
